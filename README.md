@@ -4,13 +4,13 @@ Bienvenue dans le dépôt des discussions de notre organisation ! Ce repository 
 
 ## 📌 Objectif
 Ce dépôt est utilisé pour :
-- Centraliser les discussions
+- Centraliser les discussions en utilisant l'onglet [Discussions](https://github.com/orgs/OratisDEV/discussions)
 - Faciliter les échanges et le brainstorming entre membres
 - Organiser les propositions et idées d'amélioration
 - Recueillir les retours de la communauté
 
 ## 🚀 Comment Participer ?
-1. Rendez-vous dans l'onglet [Discussions](../../discussions)
+1. Rendez-vous dans l'onglet [Discussions](https://github.com/orgs/OratisDEV/discussions)
 2. Parcourez les sujets existants et participez en ajoutant des commentaires
 3. Si votre sujet n'existe pas encore, créez une nouvelle discussion
 4. Restez respectueux et suivez notre [Code de Conduite](CODE_OF_CONDUCT.md) 😊
